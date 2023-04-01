@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Hello Bangla hpw ate upu");
+    printf("Hello Bangladesh");
     return 0;
     
 }
